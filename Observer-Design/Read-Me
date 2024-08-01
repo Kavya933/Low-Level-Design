@@ -1,0 +1,4 @@
+This is Observable Design pattern.
+The question is implement notify me of amazon shopping app.
+So when product is out of stock user can click Notify me button on UI.
+When product is in stock, system have to inform all user who have clicked Notify me.
